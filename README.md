@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **firebase**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about  **react**
 
-- 📫 How to reach me **nurieldavid@gmail.com**
+- 📫 How to reach me  **nurieldavid@gmail.com**
 
 - ⚡ Fun fact **I fell in love with programming in my high school coding club!**
 
