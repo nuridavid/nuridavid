@@ -5,6 +5,8 @@
 
 - 💬 Ask me about  **react**
 
+-  My portfolio site **nuridavid.com**
+
 - 📫 How to reach me  **nurieldavid@gmail.com**
 
 - ⚡ Fun fact **I fell in love with programming in my high school coding club!**
