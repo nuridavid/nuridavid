@@ -5,7 +5,7 @@
 
 - 💬 Ask me about  **react**
 
-- ** [Click here for my portfolio site](www.nuridavid.com)**
+- <a href="www.nuridavid.com">Click here for my portfolio site</a>
 
 - 📫 How to reach me  **nurieldavid@gmail.com**
 
