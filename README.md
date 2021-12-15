@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nuri David</h1>
-<h3 align="center">A passionate front end developer from Boca Raton</h3>
+<h3 align="center">A passionate Software Engineer from Boca Raton</h3>
 
-- 🌱 I’m currently learning **firebase**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about  **react**
 
